@@ -1,2 +1,2 @@
-Millioncities **- Official Coding Conventions -**
+Millioncities *- Official Coding Conventions -*
 =============
