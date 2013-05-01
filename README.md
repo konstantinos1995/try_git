@@ -4,7 +4,8 @@ This is the official guide on how to write code for millioncities.com
 
 #### Tools used by millioncities
 * `PHP / HTML / JAVASCRIPT (jQuery)`
-* `Laravel` php framework
+* `Laravel` php mvc framework
+* `Backbone` js mvc
 * `Less` instead of css
 * `Grunt` (node js based task manager)
 * `Git` for version control
