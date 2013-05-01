@@ -3,7 +3,7 @@
 This is the official guide on how to write code for millioncities.com
 
 #### Javascript
-* Always use `camelCase` (first letter small) for variable and function names
+* Use `camelCase` (first letter small) for variable and function names
 * Prefix *jQuery* variables is $, eg. `var $someSelector = $("#selectById")`
 * Make sure your code lints (check the jshint configuration for more details)
 
@@ -14,7 +14,7 @@ This is the official guide on how to write code for millioncities.com
 * Use `_` (underscore) for variable names, eg. `$new_var`
 
 #### How to comment
-Always comment using double slash `//`, never use multiline comments.
+Always comment using double slash `//`, never use multiline comments on any file (JS, PHP, LESS etc.).
 This allows to docco to parse the comments and create a documentation.
 Be as expressive as you can on the comments (always write code as if the coder afterwards is a crazy phycopath)
 
@@ -26,6 +26,12 @@ Also check out a [demo](http://underscorejs.org/docs/underscore.html) of the kin
 Most commonly used markdown notation:
 * `**Word**` for bold
 * `*Word*` for italics
+* For `<h1>` headers write write the header comment `H1 Header` followed by `========` on the next line
+* For `<h2>` headers write write the header comment `H2 Header` followed by `--------` on the next line
+* `[link text](http://www.somelink.com)` for links
 
 #### Files
 * Name files using `camelCase` as in javascript
+
+
+*__Note__*: the above conventions do not apply to downloaded libraries which should remain as they are
