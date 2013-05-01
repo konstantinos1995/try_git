@@ -3,7 +3,7 @@
 This is the official guide on how to write code for millioncities.com
 
 #### Tools used by millioncities
-* `PHP / HTML / JAVASCRIPT`
+* `PHP / HTML / JAVASCRIPT (jQuery)`
 * `Laravel` php framework
 * `Less` instead of css
 * `Grunt` (node js based task manager)
