@@ -7,7 +7,7 @@ This is the official guide on how to write code for millioncities.com
 * Prefix *jQuery* variables is $, eg. `var $someSelector = $("#selectById")`
 * Make sure your code lints (check the jshint configuration for more details)
 
-#### HTML/CSS
+#### HTML/Less
 * Use dashes on html attributes and css class names 
 
 #### PHP
