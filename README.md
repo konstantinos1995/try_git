@@ -2,6 +2,14 @@
 
 This is the official guide on how to write code for millioncities.com
 
+#### Tools used by millioncities
+* `PHP / HTML / JAVASCRIPT`
+* `Laravel` php framework
+* `Less` instead of css
+* `Grunt` (node js based task manager)
+* `Git` for version control
+* `Trello` store things todo
+
 #### Javascript
 * Use `camelCase` (first letter small) for variable and function names
 * Prefix *jQuery* variables is $, eg. `var $someSelector = $("#selectById")`
