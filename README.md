@@ -24,6 +24,9 @@ This is the official guide on how to write code for millioncities.com
 * Class names should use `CamelCase` with first letter capital
 * Functions and methods should use `camelCase`
 
+#### MySQL
+* Use snake case for column and table names
+
 #### How to comment
 Always comment using double slash `//`, never use multiline comments on any file (JS, PHP, LESS etc.).
 This allows to docco to parse the comments and create a documentation.
