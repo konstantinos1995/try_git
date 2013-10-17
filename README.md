@@ -21,6 +21,8 @@ This is the official guide on how to write code for millioncities.com
 
 #### PHP
 * Use `_` (underscore) for variable names, eg. `$new_var`
+* Class names should use `CamelCase` with first letter capital
+* Functions and methods should use `camelCase`
 
 #### How to comment
 Always comment using double slash `//`, never use multiline comments on any file (JS, PHP, LESS etc.).
@@ -43,4 +45,5 @@ Most commonly used markdown notation:
 * Name files using `camelCase` as in javascript
 
 
+*__NOTE__*: always follow library conventions if neccessary (eg. Laravel file naming)
 *__Note__*: the above conventions do not apply to downloaded libraries which should remain as they are
